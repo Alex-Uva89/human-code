@@ -1,11 +1,16 @@
 body{
+    background-image: url(../img/r5OoZ4.jpg);
     width: 100vw;
 }
 .container{
+    background-color: cornsilk;
     width: 50%;
     margin: 0 auto;
+    padding: 10px;
+    border: 3px solid darkmagenta;
 }
 
 h1{
+    color: blueviolet;
     text-align: center;
 }
